@@ -1,0 +1,16 @@
+C:\Users\4021a\OneDrive\Desktop\Projects\ShopSimVisualStudio\ShopSim\ShopSim\obj\Debug\netcoreapp3.1\ShopSim.csprojAssemblyReference.cache
+C:\Users\4021a\OneDrive\Desktop\Projects\ShopSimVisualStudio\ShopSim\ShopSim\obj\Debug\netcoreapp3.1\ShopSim.AssemblyInfoInputs.cache
+C:\Users\4021a\OneDrive\Desktop\Projects\ShopSimVisualStudio\ShopSim\ShopSim\obj\Debug\netcoreapp3.1\ShopSim.AssemblyInfo.cs
+C:\Users\4021a\OneDrive\Desktop\Projects\ShopSimVisualStudio\ShopSim\ShopSim\obj\Debug\netcoreapp3.1\ShopSim.csproj.CoreCompileInputs.cache
+C:\Users\4021a\OneDrive\Desktop\Projects\ShopSimVisualStudio\ShopSim\ShopSim\bin\Debug\netcoreapp3.1\ShopSim.exe
+C:\Users\4021a\OneDrive\Desktop\Projects\ShopSimVisualStudio\ShopSim\ShopSim\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\Users\4021a\OneDrive\Desktop\Projects\ShopSimVisualStudio\ShopSim\ShopSim\obj\Debug\netcoreapp3.1\ShopSim.csproj.CopyComplete
+C:\Users\4021a\OneDrive\Desktop\Projects\ShopSimVisualStudio\ShopSim\ShopSim\bin\Debug\netcoreapp3.1\ShopSim.deps.json
+C:\Users\4021a\OneDrive\Desktop\Projects\ShopSimVisualStudio\ShopSim\ShopSim\bin\Debug\netcoreapp3.1\ShopSim.runtimeconfig.json
+C:\Users\4021a\OneDrive\Desktop\Projects\ShopSimVisualStudio\ShopSim\ShopSim\bin\Debug\netcoreapp3.1\ShopSim.runtimeconfig.dev.json
+C:\Users\4021a\OneDrive\Desktop\Projects\ShopSimVisualStudio\ShopSim\ShopSim\bin\Debug\netcoreapp3.1\ShopSim.dll
+C:\Users\4021a\OneDrive\Desktop\Projects\ShopSimVisualStudio\ShopSim\ShopSim\bin\Debug\netcoreapp3.1\ShopSim.pdb
+C:\Users\4021a\OneDrive\Desktop\Projects\ShopSimVisualStudio\ShopSim\ShopSim\bin\Debug\netcoreapp3.1\ConsoleTables.dll
+C:\Users\4021a\OneDrive\Desktop\Projects\ShopSimVisualStudio\ShopSim\ShopSim\obj\Debug\netcoreapp3.1\ShopSim.dll
+C:\Users\4021a\OneDrive\Desktop\Projects\ShopSimVisualStudio\ShopSim\ShopSim\obj\Debug\netcoreapp3.1\ShopSim.pdb
+C:\Users\4021a\OneDrive\Desktop\Projects\ShopSimVisualStudio\ShopSim\ShopSim\obj\Debug\netcoreapp3.1\ShopSim.genruntimeconfig.cache
